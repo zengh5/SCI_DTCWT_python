@@ -4,8 +4,10 @@ Python implementation for our paper 'Source camera identification with dual-tree
 [Homepage](https://cs.swust.edu.cn/staff/p/zenghui)  
     Contact: zengh5@mail2.sysu.edu.cn
 
-usage：
-    Run Figx.m to reproduce corresponding results in our paper.
+usage： 
+    1 Prepare the reference fingerprint, while the list of involved images are provided. You can also write an email to me for the off-the-shelf fingerprint;  
+    2 unzip the dtcwt.rar;  
+    3 Run Figx.m to reproduce corresponding results in our paper.
 # History
 After the publication, we received numerous requests on the python implementation on DWT/DTCWT-based camera identification. To this end, we prepare this project this year and make it public for the researchers' convenience.
 
