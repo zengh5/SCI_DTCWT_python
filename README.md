@@ -4,7 +4,8 @@ Python implementation for our paper 'Source camera identification with dual-tree
 [Homepage](https://cs.swust.edu.cn/staff/p/zenghui)  
     Contact: zengh5@mail2.sysu.edu.cn
 
-usage： 
+usage：  
+
     1 Prepare the reference fingerprint, while the list of involved images are provided. You can also write an email to me for the off-the-shelf fingerprint;  
     2 unzip the dtcwt.rar;  
     3 Run Figx.m to reproduce corresponding results in our paper.
