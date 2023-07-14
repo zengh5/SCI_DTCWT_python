@@ -1,8 +1,8 @@
 # SCI_DTCWT_python
-Python implementation for our paper 'Source camera identification with dual-tree complex wavelet transform' Matlab version('https://github.com/zengh5/SCI_DTCWT')   
+Python implementation for our paper 'Source camera identification with dual-tree complex wavelet transform' [Matlab version]('https://github.com/zengh5/SCI_DTCWT')   
 [1] Zeng H, Wan Y, Deng K, Peng A, Source Camera Identification With Dual-Tree Complex Wavelet Transform (J). IEEE Access 2020, 8, 18874-18883. 
 Homepage: https://cs.swust.edu.cn/staff/p/zenghui  
-    Contact: zengh5@mail2.sysu.edu.cn
+    [Contact](zengh5@mail2.sysu.edu.cn)
 
 usage：
     Run Figx.m to reproduce corresponding results in our paper.
